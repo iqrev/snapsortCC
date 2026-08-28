@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Lightroom temporary files
+*.lrcat.lock
+*.lrprev
+*.lrcat-data
+
+# Scratch & temporary files
+scratch/
+*.tmp
+*.log
